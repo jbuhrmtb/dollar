@@ -35,7 +35,7 @@
               "libraryName": "dollar2",
               "libraryTarget": "umd"
             },
-            "deployUrl": "http://localhost:4201/"
+            "deployUrl": "http://localhost:4220/"
           },
           "configurations": {
             "production": {
