@@ -23,7 +23,7 @@ jobs:
       - run: npm install
       # - run: npm run test
       - run: npm run build
-      - run: rm dist/dollar/index.html || true
+      - run: rm dist/dollar2/index.html || true
       - run: find dist
       - uses: actions/upload-artifact@v2
         with:

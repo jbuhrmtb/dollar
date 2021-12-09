@@ -6,7 +6,7 @@ import { EmptyRouteComponent } from './empty-route/empty-route.component';
 
 const routes: Routes = [
   { path: '**', component: DollarComponent },
-  { path: 'mydollar', component: DollarComponent },
+  { path: 'dollar2', component: DollarComponent },
   
 ];
 

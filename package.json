@@ -1,5 +1,5 @@
 {
-  "name": "dollar",
+  "name": "dollar2",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,8 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "build:single-spa:dollar": "ng build dollar --prod",
-    "serve:single-spa:dollar": "ng s --project dollar --disable-host-check --port 4201 --live-reload false"
+    "build:single-spa:dollar2": "ng build dollar2 --prod",
+    "serve:single-spa:dollar2": "ng s --project dollar2 --disable-host-check --port 4201 --live-reload false"
   },
   "private": true,
   "dependencies": {
