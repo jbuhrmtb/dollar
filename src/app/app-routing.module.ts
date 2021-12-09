@@ -5,9 +5,8 @@ import { DollarComponent } from './dollar/dollar.component';
 import { EmptyRouteComponent } from './empty-route/empty-route.component';
 
 const routes: Routes = [
-  { path: '**', component: DollarComponent },
   { path: 'dollar2', component: DollarComponent },
-  
+  { path: '**', component: DollarComponent }  
 ];
 
 @NgModule({
