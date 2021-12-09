@@ -1,0 +1,28 @@
+.dollarcontent {
+   margin: 55px 0px 0px 0px;
+   padding: 25px;
+   width: 100%;
+   background-color: #fbebad;
+   height: 100%;
+}
+
+h1 {
+   font-size: 28px;
+   z-index: 1;
+}
+
+.sloth1 {
+   z-index: -1;
+   margin-top: -150px;
+}
+
+p.dollars {
+   margin-top: -100px;
+   word-break: break-word;
+   color: #6b9c0f;
+   font-weight: bold;
+}
+
+html {
+   height: 100%;
+}
